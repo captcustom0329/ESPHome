@@ -30,18 +30,18 @@ logger:
 
 api:
   encryption:
-    key: "JNdroO+BPX2oUaSosmW9oKSjhrPE4jvbbEnjUcXJX4k="
+    key: "your api Key here"
 
 ota:
   - platform: esphome
-    password: "a5180484d97247e6f8669f1a3a123a2c"
+    password: "your ota password here"
 
 wifi:
-  ssid: Phil-iOt Network
-  password: HushPlug
+  ssid: Network name Here
+  password: network password here
   ap:
     ssid: "Bambu-Lab-Monitor"
-    password: "Cdrury1837$"
+    password: "password here"
 
 captive_portal:
 
