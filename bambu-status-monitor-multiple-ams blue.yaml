@@ -1,7 +1,7 @@
 substitutions:
   device_name: bambu-lab-monitor
   friendly_name: Bambu Lab Monitor
-  printer: x1c
+  printer: your home assistant entity here
 
 esphome:
   name: ${device_name}
