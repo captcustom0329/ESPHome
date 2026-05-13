@@ -1,0 +1,1 @@
+Ii used ESPHome to build a display that links to the bambu integraton in home assistant and shows printer stats.  It is a modifoed version of https://github.com/Incipiens/Adam-Home-Assistant-Snippets to adjust for a bigger display.
